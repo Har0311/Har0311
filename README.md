@@ -11,11 +11,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **the full stack projects**
+ 🔭 I’m currently working on **ML and the full stack projects**
  
- 🌱 I’m currently learning **Backend, Redux, React Native, Next Js**
+ 🌱 I’m currently learning **Backend, Redux, React Native, Next Js, Data Analytics, Data Science**
 
-💬 Ask me about **Node.js, React, MongoDB, Tailwind, Bootstrap... or anything [here](https://github.com/Har0311/Har0311/issues)**
+💬 Ask me about **Machine learning, python, Flask, Streamlit, Power BI, Tableau Node.js, React, MongoDB, Tailwind, Bootstrap... or anything [here](https://github.com/Har0311/Har0311/issues)**
 
 ⚡ Fun fact **I've written more lines of code than I have tweets! 🖥️🐦 #CodeOverCharacters**
 
