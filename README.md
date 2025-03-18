@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hello!+There!+👋;+I'm+Harish+Kumar!;" />
 </h1>
 
-<h3 align="center">Dedicated and truly passionate web developer</h3>
+<h3 align="center">Dedicated and truly passionate data analyst, data scientist and web developer</h3>
 
 <br/>
 
